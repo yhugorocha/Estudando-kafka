@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-<p align="center">Estudando Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka.</p>
+Estudando Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka.
 
 ## Funcionalidades
 
